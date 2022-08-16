@@ -1,0 +1,25 @@
+body {
+    background-color: #172238;
+}
+.navbar-expand {
+    margin:4px ;
+    text-align:center;
+    display:flex;
+    direction: ltr;
+}
+.navbar-expand ul {
+    display:flex;
+    direction: rtl;
+    padding-right:1px ;
+}
+.navbar-expand ul a {
+    color: black;
+}
+.pragraf {
+    color: azure;
+    direction: rtl;
+    width:100%;
+    height:auto ;
+    text-align: center;
+    padding-top: 200px;
+}
